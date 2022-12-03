@@ -1,3 +1,5 @@
+    #DAY1
+#PT1
 from pathlib import Path
 
 fn = 'input.txt'
